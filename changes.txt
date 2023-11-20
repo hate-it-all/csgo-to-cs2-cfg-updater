@@ -1,0 +1,13 @@
++moveleft +left
++moveright +right
+voice_enable_toggle toggle voice_modenable 1 0
+KP_INS KP_0
+KP_END KP_1
+KP_DOWNARROW KP_2
+KP_PGDN KP_3
+KP_LEFTARROW KP_4
+KP_RIGHTARROW KP_6
+KP_HOME KP_7
+KP_UPARROW KP_8
+KP_PGUP KP_9
++speed +sprint
